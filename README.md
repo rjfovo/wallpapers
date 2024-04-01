@@ -1,4 +1,4 @@
-# CutefishOS Wallpaper 
+# CutefishOS Wallpaper
 
 CutefishOS's system wallpaper.
 
