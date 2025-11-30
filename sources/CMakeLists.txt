@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 3.5)
-project(unsplash-wallpapers)
+cmake_minimum_required(VERSION 3.16)
+project(cutefish-wallpapers-sources)
 
 set(BACKGROUNDS
 	default.jpg

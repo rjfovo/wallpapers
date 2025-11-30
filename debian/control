@@ -1,15 +1,15 @@
 Source: cutefish-wallpapers
-Section: devel
+Section: x11
 Priority: optional
 Maintainer: CutefishOS <support@cutefishos.com>
 Build-Depends: cmake,
-               debhelper (>= 9),
+               debhelper (>= 13),
                extra-cmake-modules
-Standards-Version: 4.5.0
+Standards-Version: 4.6.2
 Homepage: https://cutefishos.com
 
 Package: cutefish-wallpapers
-Architecture: any
-Depends: ${misc:Depends},
-         ${shlibs:Depends}
+Architecture: all
+Depends: ${misc:Depends}
 Description: CutefishOS Wallpapers
+ Collection of default wallpapers for CutefishOS desktop environment.
